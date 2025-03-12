@@ -9,8 +9,19 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-snake.svg
+
+      - name: Commit and Push SVG
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add dist/github-snake.svg
+          git commit -m "Update Snake Animation" || echo "No changes to commit"
+          git push
