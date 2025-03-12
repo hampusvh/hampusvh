@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/hampusvh/hampusvh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/hampusvh/hampusvh/output/github-contribution-grid-snake.svg)
