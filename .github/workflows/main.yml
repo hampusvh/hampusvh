@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * *" # Runs every midnight UTC
   workflow_dispatch: # Allows manual trigger
-
+  
 jobs:
   generate:
     runs-on: ubuntu-latest
