@@ -2,21 +2,21 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs every midnight UTC
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake GIF
-        uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk@main  # Use the latest version
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
-          
-      - name: Push to GitHub
+
+      - name: Upload Snake Animation
         uses: actions/upload-artifact@v3
         with:
           name: snake-animation
-          path: dist/snake.svg
+          path: dist/
