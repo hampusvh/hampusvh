@@ -12,16 +12,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate Snake SVGs (Light & Dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit and Push SVG
+      - name: Commit and Push SVGs
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add dist/github-snake.svg
-          git commit -m "Update Snake Animation" || echo "No changes to commit"
+          git add dist/github-snake.svg dist/github-snake-dark.svg
+          git commit -m "Update Snake Animation (Light & Dark)" || echo "No changes to commit"
           git push
