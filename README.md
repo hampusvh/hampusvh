@@ -1,5 +1,7 @@
-## 👋 Hello, I'm Hampus von Horn!
+## 👋  Hello, I'm Hampus!
+
 - 💻 Full Stack Developer Student with a focus on Web Security
+  
 - 🌍 Based in Sweden 🇸🇪
 
 
