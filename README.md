@@ -1,6 +1,6 @@
 # Hi, I'm Hampus! 
 
-Frontend Developer Student | MERN Stack | Web Security  
+Currently studying frontend development (MERN stack) with a focus on web security. Passionate about building secure and modern web applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hampus-von-horn-4b75918a/)
 
