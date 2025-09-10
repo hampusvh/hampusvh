@@ -1,6 +1,4 @@
 ---
-Currently studying frontend development (MERN stack) with a focus on web security. </br>
-Passionate about building secure and modern web applications.
 
   <kbd>Connect with me</kbd>
   <br>↓<br>
