@@ -5,13 +5,10 @@
     width="100%"
   />
 </p>
-<!--
 
 <p align="center">
   <img src="./avatar.png" alt="Hampus von Horn" width="150" />
 </p>
-
--->
 
 <p align="center">
   Software developer with a focus on frontend, Node.js, and long-term maintainability.<br/>
