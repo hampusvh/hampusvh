@@ -5,15 +5,15 @@
     width="100%"
   />
 </p>
-
-<br/>
+<!--
 
 <p align="center">
   <img src="./avatar.png" alt="Hampus von Horn" width="150" />
 </p>
 
+-->
+
 <p align="center">
-  <strong>Hampus von Horn</strong><br/>
   Software developer with a focus on frontend, Node.js, and long-term maintainability.<br/>
   I design calm, predictable interfaces and build systems that age well.
 </p>
@@ -29,12 +29,10 @@
 </p>
 
 <p align="center">
-  <span style="position: relative; top: -1px; opacity:.7;">◉</span>&nbsp;
   <img
-    src="https://komarev.com/ghpvc/?username=hampusvh&label=&color=3FB3A6&labelColor=0d1117&style=flat"
+    src="https://komarev.com/ghpvc/?username=hampusvh&label=&color=3FB3A6&labelColor=0d1117&style=flat&icon=github"
     height="18"
     alt="Profile views"
-    style="vertical-align: middle;"
   />
 </p>
 
