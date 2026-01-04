@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0:B98A5F,30:8E6FA3,60:5E8FB0,100:3FB3A6&section=header&strokeWidth=100"
+    src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:B98A5F,30:8E6FA3,60:5E8FB0,100:3FB3A6&section=header&strokeWidth=100"
     alt=""
     width="100%"
   />
