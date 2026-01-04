@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="./avatar.png" alt="Hampus von Horn" width="150" />
-</p>
-
-<p align="center">
   Software developer with a focus on frontend, Node.js, and long-term maintainability.<br/>
   I design calm, predictable interfaces and build systems that age well.
 </p>
@@ -33,8 +29,7 @@
   />
 </p>
 
-
-<br/><br/>
+<br/>
 
 <p align="center">
   <picture>
@@ -42,14 +37,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hampusvh/hampusvh/main/dist/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/hampusvh/hampusvh/main/dist/github-snake.svg" />
   </picture>
-</p>
-
-<br/>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:B98A5F,30:8E6FA3,60:5E8FB0,100:3FB3A6&section=footer&strokeWidth=100"
-    alt=""
-    width="100%"
-  />
 </p>
