@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  Software developer working with frontend, Node.js, and security.<br/>
+  Working with frontend, Node.js, and security. 
+    <br/>
   Focused on clarity and long-term maintainability.
 </p>
 
@@ -19,14 +20,6 @@
   <code>Express</code>
   <code>MongoDB</code>
   <code>Web Security</code>
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=hampusvh&label=&color=3FB3A6&labelColor=0d1117&style=flat&icon=github"
-    height="18"
-    alt="Profile views"
-  />
 </p>
 
 <br/>
@@ -44,6 +37,7 @@
     <img
       alt="github-snake"
       src="https://raw.githubusercontent.com/hampusvh/hampusvh/main/dist/github-snake.svg"
+      width="85%"
     />
   </picture>
 </p>
