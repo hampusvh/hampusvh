@@ -5,6 +5,16 @@
 
 <br/>
 
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=hampusvh&label=views&color=3FB3A6&labelColor=0d1117&style=flat"
+    alt="Profile views"
+    height="18"
+  />
+</p>
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hampusvh/hampusvh/main/dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hampusvh/hampusvh/main/dist/github-snake.svg" />
