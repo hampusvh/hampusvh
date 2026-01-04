@@ -1,23 +1,23 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:B98A5F,30:8E6FA3,60:5E8FB0,100:3FB3A6&section=header&strokeWidth=100"
+    src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0:B98A5F,30:8E6FA3,60:5E8FB0,100:3FB3A6&section=header&strokeWidth=100"
     alt=""
     width="100%"
   />
 </p>
 
 <p align="center">
-  Software developer with a focus on frontend, Node.js, and long-term maintainability.<br/>
-  I design calm, predictable interfaces and build systems that age well.
+  Software developer working with frontend, Node.js, and security.<br/>
+  Focused on clarity and long-term maintainability.
 </p>
 
 <p align="center">
-  <code>Frontend</code>&nbsp;
-  <code>React</code>&nbsp;
-  <code>TypeScript</code>&nbsp;
-  <code>Node.js</code>&nbsp;
-  <code>Express</code>&nbsp;
-  <code>MongoDB</code>&nbsp;
+  <code>Frontend</code>
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>Node.js</code>
+  <code>Express</code>
+  <code>MongoDB</code>
   <code>Web Security</code>
 </p>
 
@@ -33,8 +33,17 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hampusvh/hampusvh/main/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hampusvh/hampusvh/main/dist/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/hampusvh/hampusvh/main/dist/github-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hampusvh/hampusvh/main/dist/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/hampusvh/hampusvh/main/dist/github-snake.svg"
+    />
+    <img
+      alt="github-snake"
+      src="https://raw.githubusercontent.com/hampusvh/hampusvh/main/dist/github-snake.svg"
+    />
   </picture>
 </p>
