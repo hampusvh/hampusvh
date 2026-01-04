@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  <img src="../assets/avatar.png" alt="Hampus von Horn" width="150" />
+  <img src="./avatar.png" alt="Hampus von Horn" width="150" />
 </p>
 
 <p align="center">
