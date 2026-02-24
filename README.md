@@ -1,14 +1,14 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:B98A5F,30:8E6FA3,60:5E8FB0,100:3FB3A6&section=header&strokeWidth=100"
-    alt=""
-    width="100%"
-  />
-</p>
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:020617,30:064E3B,60:0F766E,100:14B8A6&section=header&strokeWidth=100" 
+  alt=""
+  width="100%"
+/>
 
 <p align="center">
-  Frontend developer focused on web security and long-term maintainability.
+  Frontend developer with a focus on secure and maintainable systems.
 </p>
+
+<br/>
 
 <p align="center">
   <code>Next.js</code>&nbsp;
