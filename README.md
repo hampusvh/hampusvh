@@ -7,18 +7,22 @@
 </p>
 
 <p align="center">
-  Working with frontend, Node.js, and security. 
-    <br/>
-  Focused on clarity and long-term maintainability.
+  Frontend developer focused on web security and long-term maintainability.
 </p>
 
 <p align="center">
-  <code>Frontend</code>
-  <code>React</code>
+  <code>Next.js</code>&nbsp;
+  <code>React</code>&nbsp;
   <code>TypeScript</code>
-  <code>Node.js</code>
-  <code>Express</code>
+</p>
+
+<p align="center">
+  <code>Node.js</code>&nbsp;
+  <code>Express</code>&nbsp;
   <code>MongoDB</code>
+</p>
+
+<p align="center">
   <code>Web Security</code>
 </p>
 
