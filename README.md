@@ -5,17 +5,13 @@
 />
 
 <h3 align="center">
-  Frontend developer with a focus on secure and maintainable systems.
+  Frontend developer with a focus on web    security
 </h3>
 
 <br/>
 
 <p align="center">
-  Next.js · React · TypeScript
-    <br/>
-  Node.js · Express · MongoDB
-    <br/>
-  Web Security
+  React · Next.js · TypeScript · Node.js    · Express · MongoDB
 </p>
 
 <br/>
