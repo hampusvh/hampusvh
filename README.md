@@ -5,8 +5,9 @@
 />
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=transparent&height=95&color=gradient&text=frontend%20developer&fontColor=F8FAFC&fontSize=42&fontAlignY=40&desc=with%20a%20focus%20on%20web%20security&descColor=0F766E&descSize=20&descAlignY=72" 
+  src="https://capsule-render.vercel.app/api?type=transparent&height=95&color=gradient&text=frontend%20developer&fontColor=F8FAFC&fontSize=42&fontAlign=50&fontAlignY=40&desc=with%20a%20focus%20on%20web%20security&descSize=20&descAlignY=72" 
   alt="Frontend Developer"
+  width="100%"
 />
 
 <img 
@@ -14,7 +15,6 @@
   alt=""
   width="100%"
 />
-
 
 <br/>
 
