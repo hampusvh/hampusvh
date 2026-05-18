@@ -11,8 +11,7 @@ Interested in UI/UX, visual design and interfaces where structure, usability and
 
 Most projects begin as small experiments and evolve through iteration, refinement and attention to detail.
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050816,35:0A141D,50:18253A,65:0A141D,100:050816" width="100%" />
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050816,30:0B1B24,50:183447,70:0B1B24,100:050816" width="100%" /><br>
 <br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb&theme=dark&perline=6" width="180" />
 <br>
@@ -22,7 +21,7 @@ Most projects begin as small experiments and evolve through iteration, refinemen
 <br>
 <sub>
 <a href="https://www.linkedin.com/in/hampusvh/">linkedin</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;⋮&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://hampusvh.netlify.app/">portfolio</a>
 </sub>
 <br>
