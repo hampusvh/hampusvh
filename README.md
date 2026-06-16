@@ -1,15 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1F2A,55:1A1633,80:12343B,100:050816&height=80&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1F2A,55:1A1633,80:12343B,100:050816&height=60&section=header&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-### Frontend Developer based in Stockholm
+### Frontend Developer focused on interfaces and web security
 
 <br>
 Working with React, Next.js and TypeScript, with a focus on frontend systems, interaction and web security.
 <br>
 Interested in UI/UX, visual design and interfaces where structure, usability and atmosphere work together.
-
-Most projects begin as small experiments and evolve through iteration, refinement and attention to detail.
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050816,30:0B1B24,50:183447,70:0B1B24,100:050816" width="100%" /><br>
 <br>
@@ -26,4 +24,4 @@ Most projects begin as small experiments and evolve through iteration, refinemen
 </sub>
 <br>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1F2A,55:1A1633,80:12343B,100:050816&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1F2A,55:1A1633,80:12343B,100:050816&height=60&section=footer" width="100%" />
