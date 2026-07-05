@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,50:2e9e6b,100:0f0f0f&height=1" width="500" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2e9e6b&height=5" width="500" />
+<br>
+<br>
+<img src="./avatar-circular.webp" width="70" />
 
-### Web Developer based in Stockholm
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,50:2e9e6b,100:0f0f0f&height=1" width="500" />
+#### Web Developer based in Stockholm
+Building with React, Next.js and TypeScript
+<br>
+Focused on frontend systems, interaction and security
+<br>
+Interested in UI/UX and interfaces where structure meets atmosphere
+<br>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2e9e6b&height=5" width="500" />
 
 </div>
-
